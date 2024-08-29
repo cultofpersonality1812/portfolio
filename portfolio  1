@@ -61,7 +61,7 @@
             padding: 10px;
             border-radius: 5px;
             background-color: #383838;
-            box-shadow: 0 0 10px rgba(128, 0, 128, 0.3);
+            box-shadow: 0 0 10px rgba(0, 128, 105, 0.3);
         }
 
         .projects .project:hover {
